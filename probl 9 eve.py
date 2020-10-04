@@ -1,0 +1,6 @@
+a=int(input("Dati un nr : "))
+b=int(input("Dati un nr : "))
+c=int(input("Dati un nr : "))
+print(a,"+",b,"=",a+b)
+print(a,"+",c,"=",a+c)
+print(b,"+",c,"=",b+c)
