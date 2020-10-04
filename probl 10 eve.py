@@ -1,0 +1,12 @@
+n=int(input("Dati un nr: "))
+print(1,"*",n,"=",1*n)
+print(2,"*",n,"=",2*n)
+print(3,"*",n,"=",3*n)
+print(4,"*",n,"=",4*n)
+print(5,"*",n,"=",5*n)
+print(6,"*",n,"=",6*n)
+print(7,"*",n,"=",7*n)
+print(8,"*",n,"=",8*n)
+print(9,"*",n,"=",9*n)
+print(10,"*",n,"=",10*n)
+
